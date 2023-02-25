@@ -74,7 +74,7 @@ class _Calculator_viewState extends State<Calculator_view> {
                   ),
                   numberButton("+/-", (Colors.brown[400])!, Colors.black87),
                   numberButton("%", (Colors.brown[400])!, Colors.black87),
-                  numberButton("/", (Colors.brown[400])!, Colors.white),
+                  numberButton("/", (Colors.brown[800])!, Colors.white),
                 ],
               ),
               Padding(
