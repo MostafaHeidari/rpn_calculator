@@ -4,6 +4,8 @@ This is a UI for RPN Calculator.
 
 ## Getting Started
 
+![image](https://user-images.githubusercontent.com/70130828/221371363-7004a6bb-6a55-4caa-8c1c-53d63eb53dd0.png)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
