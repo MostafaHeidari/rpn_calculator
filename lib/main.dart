@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const Calculator_view(),
+      theme: ThemeData.from(colorScheme: ColorScheme.dark(background: Color(0*222))),
+      home: const Calculator_View(),
     );
   }
 }
